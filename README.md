@@ -3,10 +3,7 @@
 <h1> Hello World! </h1>
 
 I'm your Programmer and Developer,
+
 David Kim.
-
-Currently, I am serving in the Republic of Korea Army
-
-<h2> Programmer and Developer </h2>
 
 
