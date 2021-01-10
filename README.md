@@ -8,7 +8,10 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 
 ![](https://komarev.com/ghpvc/?username=dav1dk1m&color=brightgreen&label=PROFILE+VIEWS)
 
+# :wave: Hello World :earth_americas:
 I'm your Programmer and Developer, David Kim.
+
+
 
 
 
