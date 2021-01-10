@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/36246244/104093022-1fc86e80-52cb-11eb-92ef-6a2cb91ebe26.jpg" width="40%" align="left">
+<img src="https://user-images.githubusercontent.com/36246244/104124239-186c9800-5393-11eb-8b6d-de97b54847b7.png" width="40%" align="left">
 
 # [David Kim](https://dav1dk1m.github.io/Simple-Portfolio-Ver./)
 
