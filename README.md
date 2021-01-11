@@ -13,9 +13,7 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 
 I'm your Programmer and Developer, David Kim.
 
-<a href="https://github.com/dav1dk1m/github-readme-stats">
-  <img align="left" src="hhttps://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br>
 - 🔭 I’m currently working on mind controlling :pray:
