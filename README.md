@@ -12,7 +12,9 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 I'm your Programmer and Developer, David Kim.
 
 
-![David Kim's github stats](https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=radical&align="left")
+![David Kim's github stats](https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham)
+
+
 
 
 
