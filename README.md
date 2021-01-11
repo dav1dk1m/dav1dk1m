@@ -13,11 +13,11 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 
 I'm your Programmer and Developer, David Kim.
 
-
+<br>
+<br>
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham" />
 
-<text align ="right">
 - 🔭 I’m currently working on mind controlling :pray:
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything related to ...
