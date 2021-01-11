@@ -13,9 +13,8 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 
 I'm your Programmer and Developer, David Kim.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![David Kim's github stats](https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham)
 
-<br>
 - 🔭 I’m currently working on mind controlling :pray:
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything related to ...
