@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/36246244/104124239-186c9800-5393-11eb-8b6d-de97b54847b7.png" width="50%" align="left">
+<img src="https://user-images.githubusercontent.com/36246244/104124239-186c9800-5393-11eb-8b6d-de97b54847b7.png" width="40%" align="left">
 
 # [David Kim](https://dav1dk1m.github.io/Simple-Portfolio-Ver./)
 
@@ -9,11 +9,18 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 ![](https://komarev.com/ghpvc/?username=dav1dk1m&color=brightgreen&label=PROFILE+VIEWS)
 
 # :wave: Hello World :earth_americas:
+<br>
+
 I'm your Programmer and Developer, David Kim.
 
+<a href="https://github.com/dav1dk1m/github-readme-stats">
+  <img align="left" src="hhttps://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham" />
+</a>
 
-![David Kim's github stats](https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham)
-
+<br>
+- 🔭 I’m currently working on mind controlling :pray:
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about anything related to ...
 
 
 
