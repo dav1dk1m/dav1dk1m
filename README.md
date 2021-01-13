@@ -13,8 +13,12 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 
 I'm your Programmer and Developer,David Kim.
 - 🔭 I’m currently working on mind controlling :pray:
-- 🌱 I’m currently learning Swift
-- 💬 Ask me about anything related to ..
+- 🌱 I’m currently learning Swift, Python, JavaScript.
+
+
+- ... By the way I’m currently serving in the Republic of Korea Army :kr:
+
+
 
 
 <br />
@@ -35,7 +39,7 @@ I'm your Programmer and Developer,David Kim.
 <br />
 
 
- <img align="left" alt="dav1dk1m's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&hide_border=true" />
+<img align="left" alt="dav1dk1m's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&hide_border=true" />
 <img align="right" alt="dav1dk1m's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dk1m" />
 
 
