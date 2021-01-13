@@ -19,11 +19,11 @@ I'm your Programmer and Developer, David Kim.
 <br>
 <br>
 
-<p align="center">
+
 - 🔭 I’m currently working on mind controlling :pray:
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about anything related to ..
-</p>
+
 
 
 
@@ -31,6 +31,8 @@ I'm your Programmer and Developer, David Kim.
 
 
 ![davidkim's github stats](https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&theme=gotham) 
+<img align="right" alt="dav1dk1m's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dk1m" />
+
 
 
 
