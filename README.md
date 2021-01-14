@@ -12,11 +12,9 @@ Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript
 <br>
 
 I'm your Programmer and Developer,David Kim.
-- 🔭 I’m currently working on mind controlling :pray:
-- 🌱 I’m currently learning Swift, Python, JavaScript.
-
-
-- ... By the way I’m currently serving in the Republic of Korea Army :kr:
+- :telescope: I’m currently working on mind controlling :pray:
+- :man_technologist: I’m currently learning Swift, Python, JavaScript :iphone:
+- :guardsman: I’m currently serving in the Republic of Korea Army :kr:
 
 
 
