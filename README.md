@@ -1,6 +1,6 @@
 # David Kim
 
-<img src="https://user-images.githubusercontent.com/36246244/104124239-186c9800-5393-11eb-8b6d-de97b54847b7.png" width="40%" align="right">
+<img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
 
 Swift | C++ | Python  |  HTML  |  CSS  |  JavaScript 
 
