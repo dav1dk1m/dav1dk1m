@@ -1,4 +1,4 @@
-# DongYun David Kim
+# David Kim
 
 <img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
 
