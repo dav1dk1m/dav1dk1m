@@ -13,7 +13,7 @@ Swift | C++ |  HTML  |  CSS  |  JavaScript
 
 I'm your Programmer and Developer,David Kim.
 - 👨‍🎓 I’m currently a Software System Engineering Student 🖥️
-- :man_technologist: I’m currently learning Swift, Python, JavaScript 📱
+- :man_technologist: I’m currently learning C++, Swift, JavaScript 📱
 - :telescope: I’m currently working on mind controlling 🙏
 
 
