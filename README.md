@@ -2,7 +2,7 @@
 
 <img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
 
-Swift | C++ |  HTML  |  CSS  |  JavaScript 
+Swift | C++ |  HTML  |  CSS  |  JavaScript | AdobeXD | WordPress
 
 ![](https://komarev.com/ghpvc/?username=dav1dk1m&color=brightgreen&label=PROFILE+VIEWS)
 
