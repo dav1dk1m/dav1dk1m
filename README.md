@@ -21,17 +21,31 @@ I'm your Programmer and Developer,David Kim.
 
 <br />
 
-### Languages and Tools:
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/36246244/165026150-d4ef120d-d1f4-4801-8f84-b447d5ba62b2.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/36246244/165026361-29543f0c-2287-453a-9f9a-bdaf2f996b25.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="WordPress" width="26px" src="https://user-images.githubusercontent.com/36246244/159821794-b6d1dcfa-d159-49ba-aa7b-f83c2403bc51.png" />
-<img align="left" alt="Adobe XD" width="26px" src= "https://user-images.githubusercontent.com/36246244/159821616-a4ac96a8-2051-4f25-9ea0-0fd08713d6cf.png" />
+### Languages:
+<p float="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
+### Tools:
+<p float="left">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/SSMS-47A248?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure DevOps-008AD7?style=for-the-badge&logo=Azure DevOps&logoColor=white">
+  <img src="https://img.shields.io/badge/Nintex K2-F67B2B?style=for-the-badge&logo=Experts Exchange&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe XD-470137?style=for-the-badge&logo=Adobe XD&logoColor=white">
+
+</p>
 
 
 
