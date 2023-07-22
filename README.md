@@ -8,22 +8,18 @@
 
 
 # :wave: Hello World :earth_americas:
-<br>
 
-I'm a passionate, ambitious, and diligent **Software System Engineering** student, diving headfirst into the world of **Software Development** and **Architecture**.
+As a Software System Engineering student, I have a passion for diving headfirst into the world of Software Development and Architecture. I’m ambitious, diligent, and always ready to learn something new.
 
 ## 🎓 Currently Studying
 Software Systems Engineering - working to enhance my knowledge and skills with every project and assignment.
 
 ## 👨‍💻 Learning
-Deepening my understanding of Software Development and Architecture to create efficient, scalable, and maintainable systems.
+Deepening my understanding of Software Development and Architecture to build systems that are not just functional, but efficient, scalable, and maintainable.
 
 ## 🌱 Growth Mindset
 I believe in constant learning and improvement. My mantra is: "The more I learn, the less I know." I'm always ready to embrace new challenges that push my boundaries.
 
-
-
-<br />
 
 ### Languages:
 <p float="left">
@@ -56,13 +52,9 @@ I believe in constant learning and improvement. My mantra is: "The more I learn,
   <img src="https://img.shields.io/badge/Eclipse-2C2255?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 
 </p>
+<br>
 
-
-
-<br />
-<br />
-
-
+## 📈 GitHub Statistics
 <img align="left" alt="dav1dk1m's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&hide_border=true" />
 <img align="right" alt="dav1dk1m's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dk1m" />
 
