@@ -10,11 +10,16 @@
 # :wave: Hello World :earth_americas:
 <br>
 
-I'm your Programmer and Developer,David Kim.
-- 👨‍🎓 I’m currently a Software System Engineering Student 🖥️
-- :man_technologist: I’m currently learning C++, Swift, JavaScript 📱
-- :telescope: I’m currently working on mind controlling 🙏
+I'm a passionate, ambitious, and diligent **Software System Engineering** student, diving headfirst into the world of **Software Development** and **Architecture**.
 
+## 🎓 Currently Studying
+Software Systems Engineering - working to enhance my knowledge and skills with every project and assignment.
+
+## 👨‍💻 Learning
+Deepening my understanding of Software Development and Architecture to create efficient, scalable, and maintainable systems.
+
+## 🌱 Growth Mindset
+I believe in constant learning and improvement. My mantra is: "The more I learn, the less I know." I'm always ready to embrace new challenges that push my boundaries.
 
 
 
@@ -60,10 +65,4 @@ I'm your Programmer and Developer,David Kim.
 
 <img align="left" alt="dav1dk1m's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dav1dk1m&show_icons=true&hide_border=true" />
 <img align="right" alt="dav1dk1m's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav1dk1m" />
-
-
-
-
-
-
 
