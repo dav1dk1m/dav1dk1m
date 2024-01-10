@@ -46,10 +46,20 @@ I believe in constant learning and improvement. My mantra is: "The more I learn,
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/SSMS-47A248?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+  <img src="https://img.shields.io/badge/SSRS-339933?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
   <img src="https://img.shields.io/badge/Azure DevOps-008AD7?style=for-the-badge&logo=Azure DevOps&logoColor=white">
   <img src="https://img.shields.io/badge/Nintex K2-F67B2B?style=for-the-badge&logo=Experts Exchange&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe XD-470137?style=for-the-badge&logo=Adobe XD&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+
+</p>
+
+### Operations:
+<p float="left">
+<img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/)
 
 </p>
 <br>
